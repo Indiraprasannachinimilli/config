@@ -6,6 +6,7 @@ eureka:
      defaultZone: http://localhost:8761/eureka/
   instance:
      hostname : localhost
+     prefer-ip-address: true
 © 2021 GitHub, Inc.
 Terms
 Privacy
