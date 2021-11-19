@@ -5,7 +5,7 @@ eureka:
     service-url:
      defaultZone: http://localhost:8761/eureka/
   instance:
-     hostname : LP-5CG1349HXB.HCLT.CORP.HCL.IN
+     hostname : localhost
      prefer-ip-address: true
 © 2021 GitHub, Inc.
 Terms
